@@ -15,7 +15,7 @@ Projeto para criar uma Pokedex com HTML, CSS e JavaScript.
 <br>
 
 <p align="center">
-  <img alt="gameboy" src=".images/project.png" width="100%">
+  <img alt="gameboy" src="images/project.png" width="20%">
 </p>
 
 ## 🚀 Tecnologias
